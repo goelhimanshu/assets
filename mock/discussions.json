@@ -23,7 +23,7 @@
         },
         "entityType": "DISCUSSION"
       },
-      "reactionAggregations": [
+      "reactionAggregations" : [
         {
           "name": "thumbsdown",
           "count": 1
