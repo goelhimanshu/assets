@@ -21,16 +21,7 @@
           "age": 18,
           "twitterHandle": "string"
         },
-        "entityType": "DISCUSSION",
-        "reactionAggregations" : [
-          {
-            "name": "thumbsdown",
-            "count": 1
-          },
-          {
-            "name": "thumbsup",
-            "count": 1
-          }
-        ]
+        "entityType": "DISCUSSION"
+
     }
 ]
