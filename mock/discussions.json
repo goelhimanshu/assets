@@ -5,7 +5,7 @@
         "startEpoch": 1627392570,
         "topic": "politics",
         "title": "azad bhaarat",
-        "description": ["something"],
+        "description": "something",
         "discussionDurationInS": 60,
         "qaDurationInS": 60,
         "discussionState": "SCHEDULED",
